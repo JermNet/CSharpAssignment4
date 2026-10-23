@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\(AA) MY STUFF\\Code\\C#\\CSharpAssignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DD0F1-2A75-4A2C-B733-23C3B5AC9322}|Assignment4\\Assignment4.csproj|d:\\documents\\(aa) my stuff\\code\\c#\\csharpassignment4\\assignment4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DD0F1-2A75-4A2C-B733-23C3B5AC9322}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DD0F1-2A75-4A2C-B733-23C3B5AC9322}|Assignment4\\Assignment4.csproj|D:\\Documents\\(AA) MY STUFF\\Code\\C#\\CSharpAssignment4\\assignment4\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56DD0F1-2A75-4A2C-B733-23C3B5AC9322}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\commandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56DD0F1-2A75-4A2C-B733-23C3B5AC9322}|Assignment4\\Assignment4.csproj|D:\\Documents\\(AA) MY STUFF\\Code\\C#\\CSharpAssignment4\\assignment4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D56DD0F1-2A75-4A2C-B733-23C3B5AC9322}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Documents\\(AA) MY STUFF\\Code\\C#\\CSharpAssignment4\\Assignment4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Assignment4\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Documents\\(AA) MY STUFF\\Code\\C#\\CSharpAssignment4\\Assignment4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Assignment4\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwGgAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T14:37:36.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandHandler.cs",
+              "DocumentMoniker": "D:\\Documents\\(AA) MY STUFF\\Code\\C#\\CSharpAssignment4\\Assignment4\\CommandHandler.cs",
+              "RelativeDocumentMoniker": "Assignment4\\CommandHandler.cs",
+              "ToolTip": "D:\\Documents\\(AA) MY STUFF\\Code\\C#\\CSharpAssignment4\\Assignment4\\CommandHandler.cs",
+              "RelativeToolTip": "Assignment4\\CommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADvSURBVDhPYxgFCHDx8cX/cavj/mtO0Pyv2qf6P3Jl5H\u002BoFMPbj2//q09QB/OR2SDACCIuP7n8P2JtBIOZtBlDokEiAz87P8ONNzcYwg3DGUEaTOaYgBUjAzZmNoabBTfB\u002BhlS16f\u002B91rg9f/Lly9wk5EBPhcwgYhTT08xeKh4MPDw8EBMJAGADWBlYgVjbADmhV9/fzEo9irC2ciuYIheGf0/bHkYVueDAD4vgJ188v7J/1Froxg8VD0YwrTCGFiZWRkuv7rMkG6RTtBLcAV7bu75P/X0VIa77\u002B8ycLJyMjjIOTB0enWSHCYjDzAwAADfwHLttPx8VwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-10-23T14:37:36.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Documents\\(AA) MY STUFF\\Code\\C#\\CSharpAssignment4\\Assignment4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Assignment4\\MainWindow.xaml",
+              "ToolTip": "D:\\Documents\\(AA) MY STUFF\\Code\\C#\\CSharpAssignment4\\Assignment4\\MainWindow.xaml",
+              "RelativeToolTip": "Assignment4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T14:37:36.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
